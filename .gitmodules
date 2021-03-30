@@ -1,0 +1,3 @@
+[submodule "wordpress"]
+	path = wordpress
+	url = https://bitbucket.org/raiyan11/wordpress-docker-oneclick/src/master/
